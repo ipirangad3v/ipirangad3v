@@ -2,5 +2,5 @@
 
 a simple guy trying to make nice apps someday.
 
-### Kotlin studant
-### java studant
+Kotlin newbie
+java lover
