@@ -1,4 +1,4 @@
-### Hi, j'm Anthoni Ipiranga
+### Hi, i'm Anthoni Ipiranga
 
 23 Years old
 
