@@ -17,4 +17,8 @@
 ## 🇺🇸 about me
 
   I am in love with technology. I've worked in technical support, network analysis and today I'm facing the challenge of being a programmer. Currently I am dedicated to the development of Android applications in Kotlin (previously in Java). I love google platforms with all my heart and that's why I chose to go deeper in the development for the Android OS. 
+  
+  ### portifólio/portfolio
+  
+  # [Calculor using Kotlin, MVVM pattern and material design] (https://github.com/AnthoniIP/CalculadorMVVMAndroid)
 
