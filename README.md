@@ -20,5 +20,5 @@
   
   ### portifólio/portfolio
   
-  #### [Calculor using Kotlin, MVVM pattern and material design] (https://github.com/AnthoniIP/CalculadorMVVMAndroid)
+  #### [Calculor using Kotlin, MVVM pattern and material design] (https://github.com/AnthoniIP/CalculadorMVVMAndroid)  <br>
 
