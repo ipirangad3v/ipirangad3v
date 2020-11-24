@@ -21,4 +21,6 @@
   ### portifólio/portfolio
   
   #### [Calculor using Kotlin, MVVM pattern and material design] (https://github.com/AnthoniIP/CalculadorMVVMAndroid)  <br>
+  
+  #### [Hotel's finder using Kotlin, MVP pattern and material design] (https://github.com/AnthoniIP/FindMyHotel)  <br>
 
