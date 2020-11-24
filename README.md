@@ -2,7 +2,7 @@
 
 23 Years old
 
-🇧🇷 Born in Macapá,Amapá,Brazil
+🇧🇷 Born and live in Macapá,Amapá,Brazil
 
 ## Find me on
 
