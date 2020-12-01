@@ -9,7 +9,7 @@
 💼 [LinkedIn](https://www.linkedin.com/in/anthoniipiranga/) <br>
 📸 [Instagram](https://www.instagram.com/thony1p/) <br>
 
-💼 [Download my resume / Baixe meu curriculum](https://docs.google.com/document/d/1cXyXG8qm8OJDAhrK9Fm1OBGZwsNZVs-uDRU9rh7J2xI/edit?usp=sharing) <br>
+📖 [Download my curriculum / baixe meu curriculum](https://docs.google.com/document/d/1cXyXG8qm8OJDAhrK9Fm1OBGZwsNZVs-uDRU9rh7J2xI/edit?usp=sharing) <br>
 
 ## 🇧🇷 sobre mim
 
