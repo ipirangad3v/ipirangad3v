@@ -4,6 +4,9 @@
 
 🇧🇷 Born and live in Macapá,Amapá,Brazil
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anthoniip)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ## Find me on
 
 💼 [LinkedIn](https://www.linkedin.com/in/anthoniipiranga/) <br>
