@@ -1,11 +1,10 @@
-### Hi, i'm Anthoni Ipiranga
+## Hi, i'm Anthoni Ipiranga
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anthoniip)](https://github.com/anuraghazra/github-readme-stats)
 
 23 Years old
 
 🇧🇷 Born and live in Macapá,Amapá,Brazil
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anthoniip)](https://github.com/anuraghazra/github-readme-stats)
-
 
 ## Find me on
 
