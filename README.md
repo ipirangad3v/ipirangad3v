@@ -28,10 +28,10 @@ No momento trabalho como freelancer e estou a procura de vagas para desenvolvedo
     
 I am in love with technology. I am graduate as a computer network technician and I am currently studying computer science at UNIFAP.
 
-    I've worked in technical support, network analysis and today I'm facing the challenge of being a programmer. Currently I am dedicated to the development of Android applications in Kotlin (previously in Java). I love google platforms with all my heart and that's why I chose to go deeper in the development for the Android OS.
+   I've worked in technical support, network analysis and today I'm facing the challenge of being a programmer. Currently I am dedicated to the development of Android applications in Kotlin (previously in Java). I love google platforms with all my heart and that's why I chose to go deeper in the development for the Android OS.
 
 
-    At moment i'm working as freelancer and looking for jobs as junior android programmer or internship.
+   At moment i'm working as freelancer and looking for jobs as junior android programmer or internship.
 
 See my portfolio on:
 https://aidev.com.br
