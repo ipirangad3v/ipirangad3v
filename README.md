@@ -22,6 +22,9 @@ Já atuei em suporte técnico, analise de redes e hoje estou encarando o desafio
 
 No momento trabalho como freelancer e estou a procura de vagas para desenvolvedor Junior ou estagio em qualquer ramo de desenvolvimento.
 
+Veja meu portifólio em:
+https://aidev.com.br
+
 ## 🇺🇸 about me
 
   I'm a self-taught Android Developer. born, raised and currently living in Macapá - AP.
