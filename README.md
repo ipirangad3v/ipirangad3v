@@ -39,10 +39,4 @@ I am in love with technology. I am graduate as a computer network technician and
 See my portfolio on:
 https://aidev.com.br
 
-  
-  ### portifólio/portfolio
-  
-  #### [Calculor using Kotlin, MVVM pattern and material design] (https://github.com/AnthoniIP/CalculadorMVVMAndroid)  <br>
-  
-  #### [Hotel's finder using Kotlin, MVP pattern and material design] (https://github.com/AnthoniIP/FindMyHotel)  <br>
 
