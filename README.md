@@ -1,7 +1,5 @@
 ## Hi, i'm Anthoni Ipiranga
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anthoniip)](https://github.com/anuraghazra/github-readme-stats)
-
 23 Years old
 
 🇧🇷 Born and live in Macapá,Amapá,Brazil
@@ -39,4 +37,6 @@ I am in love with technology. I am graduate as a computer network technician and
 See my portfolio on:
 https://aidev.com.br
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anthoniip&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anthoniip)](https://github.com/anuraghazra/github-readme-stats)
 
