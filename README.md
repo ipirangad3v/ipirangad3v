@@ -37,6 +37,11 @@ I am in love with technology. I am graduate as a computer network technician and
 See my portfolio on:
 https://aidev.com.br
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anthoniip&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anthoniip)](https://github.com/anuraghazra/github-readme-stats)
+
+<p align="center">
+<a href="https://github.com/carvalhoviniciusluiz">
+<img height="170em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anthoniip&layout=compact" />
+<img height="170em" align="left" src="https://github-readme-stats.vercel.app/api?username=anthoniip&show_icons=true" />
+</a>
+</p>
 
