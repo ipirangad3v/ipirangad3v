@@ -12,15 +12,17 @@
 
 ## 🇧🇷 sobre mim
 
- Sou um Programador Android autodidata nascido, criado e atualmente morando em Macapá - AP.
+Sou um Desenvolvedor Android autodidata que sonha fazer apps incríveis algum dia .
 
-Sou Apaixonado por tecnologia tenho formação como técnico de redes de computadores e atualmente estou cursando ciência da computação na UNIFAP.
+Nascido, criado e atualmente morando em Macapá - AP.
 
-Já atuei em suporte técnico, analise de redes e hoje estou encarando o desafio de ser programador. Me dedico ao desenvolvimento de aplicativos Android em Kotlin(anteriormente em Java). Tenho fascinio pelas plataformas da google e por isso escolhi me aprofundar no desenvolvimento para o Android OS.
+Sou Apaixonado por tecnologia, tenho formação como técnico de redes de computadores e atualmente estou cursando ciência da computação na UNIFAP.
+
+Já atuei em suporte técnico, analise de redes e hoje estou encarando o desafio de ser programador. Me dedico ao desenvolvimento de aplicativos Android em Kotlin(anteriormente em Java). Tenho fascínio pelas plataformas da google e por isso escolhi me aprofundar no desenvolvimento para o Android OS. Procuro sempre aprender um pouco a cada dia e espero poder ajudar varias pessoas assim como me ajudam hoje em dia a aprender coisas novas.
 
 No momento trabalho como freelancer e estou a procura de vagas para desenvolvedor Junior ou estagio em qualquer ramo de desenvolvimento.
 
-Veja meu portifólio em:
+veja meu portifolio:
 https://aidev.com.br
 
 ## 🇺🇸 about me
@@ -34,7 +36,7 @@ I am in love with technology. I am graduate as a computer network technician and
 
    At moment i'm working as freelancer and looking for jobs as junior android programmer or internship.
 
-See my portfolio on:
+See my portfolio:
 https://aidev.com.br
 
 
