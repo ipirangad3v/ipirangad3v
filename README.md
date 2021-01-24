@@ -31,7 +31,7 @@ https://aidev.com.br
     
 I am in love with technology. I am graduate as a computer network technician and I am currently studying computer science at UNIFAP.
 
-   I've worked in technical support, network analysis and today I'm facing the challenge of being a programmer. Currently I am dedicated to the development of Android applications in Kotlin (previously in Java). I love google platforms with all my heart and that's why I chose to go deeper in the development for the Android OS.
+  I've worked in technical support, network analysis and today I'm facing the challenge of being a programmer. Currently I am dedicated to the development of Android applications in Kotlin (previously in Java). I love google platforms with all my heart and that's why I chose to go deeper in the development for the Android OS. I always try to learn a bit everyday and I hope that i can help a lot of people as well as they help me today to learn new things.
 
 
    At moment i'm working as freelancer and looking for jobs as junior android programmer or internship.
