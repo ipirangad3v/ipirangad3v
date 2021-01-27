@@ -1,7 +1,5 @@
 ## Hi, i'm Anthoni Ipiranga
 
-23 Years old
-
 🇧🇷 Born and live in Macapá,Amapá,Brazil
 
 ## Find me on
