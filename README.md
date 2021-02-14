@@ -10,7 +10,7 @@
 
 ## 🇧🇷 sobre mim
 
-Sou um Desenvolvedor Android autodidata que sonha fazer apps incríveis algum dia .
+Sou um Desenvolvedor Android autodidata que sonha fazer apps incríveis algum dia.
 
 Nascido, criado e atualmente morando em Macapá - AP.
 
@@ -25,7 +25,7 @@ https://aidev.com.br
 
 ## 🇺🇸 about me
 
- Sou um Desenvolvedor Android autodidata que sonha fazer apps incríveis algum dia .
+ I'm a self-taught Android Developer who dreams of making awesome apps someday.
     
 I am in love with technology. I am graduate as a computer network technician and I am currently studying computer science at UNIFAP.
 
