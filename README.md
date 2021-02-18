@@ -16,7 +16,7 @@ https://aidev.com.br
 <a href="https://github.com/AnthoniIP">
 <img height="170em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anthoniip&layout=compact" />
 <img height="170em" align="left" src="https://github-readme-stats.vercel.app/api?username=anthoniip&show_icons=true" />
- [![Github visitors](https://visitor-badge.glitch.me/badge?page_id=caioagiani.visitor-badge)](https://github.com/AnthoniIP)
 </a>
 </p>
+[![Github visitors](https://visitor-badge.glitch.me/badge?page_id=caioagiani.visitor-badge)](https://github.com/AnthoniIP)
 
