@@ -18,5 +18,4 @@ https://aidev.com.br
 <img height="170em" align="left" src="https://github-readme-stats.vercel.app/api?username=anthoniip&show_icons=true" />
 </a>
 </p>
-[![Github visitors](https://visitor-badge.glitch.me/badge?page_id=AnthoniIP.visitor-badge)](https://github.com/AnthoniIP)]
 
