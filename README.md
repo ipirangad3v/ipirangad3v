@@ -3,7 +3,7 @@ a freelancer android developer treading the path of becoming a software engineer
 
 🇧🇷 Born and live in Macapá,Amapá,Brazil
 
-## :mailbox: Find me on
+## :mailbox: Say Hi
 
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anthoni.ipiranga@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anthoniipiranga/)
@@ -14,10 +14,12 @@ a freelancer android developer treading the path of becoming a software engineer
 See my portfolio:
 http://aidev.com.br
 
-## :wrench: 
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+## :wrench: Skills
+
+<code><img height="40" src="https://github.com/AnthoniIP/AnthoniIP/blob/master/assets/android.png"></code>
 
 
+## Stats
 
 <p align="center">
 <a href="https://github.com/AnthoniIP">
