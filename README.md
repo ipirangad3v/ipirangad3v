@@ -3,14 +3,20 @@ a freelancer android developer treading the path of becoming a software engineer
 
 🇧🇷 Born and live in Macapá,Amapá,Brazil
 
-## Find me on
+## :mailbox: Find me on
 
-💼 [LinkedIn](https://www.linkedin.com/in/anthoniipiranga/) <br>
-📸 [Instagram](https://www.instagram.com/thony1p/) <br>
-📖 [Download my curriculum / baixe meu curriculum](https://docs.google.com/document/d/1cXyXG8qm8OJDAhrK9Fm1OBGZwsNZVs-uDRU9rh7J2xI/edit?usp=sharing) <br>
+[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anthoni.ipiranga@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anthoniipiranga/)
+[<img height="25" src="https://i.imgur.com/2iVxee6.png">![Lattes](https://img.shields.io/badge/lattes-%23100000?logoColor=blue&style=for-the-badge)](https://docs.google.com/document/d/1cXyXG8qm8OJDAhrK9Fm1OBGZwsNZVs-uDRU9rh7J2xI/edit?usp=sharing)
+[![YouTube](https://img.shields.io/badge/-YOUTUBE-D14836?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCNyTace0PmFnXL1aSyH008A/videos)
+<!--[![GitHub](https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white)](https://guimaraaes.github.io/guimaraaes/)-->
 
 See my portfolio:
-https://aidev.com.br
+http://aidev.com.br
+
+## :wrench: 
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+
 
 
 <p align="center">
