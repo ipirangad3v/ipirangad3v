@@ -1,5 +1,5 @@
 ## Hi, i'm Anthoni Ipiranga
-a freelancer android developer treading the path of becoming a software engineer.
+an android developer treading the path of becoming a software engineer.
 
 🇧🇷 Born and live in Macapá,Amapá,Brazil
 
