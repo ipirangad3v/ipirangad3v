@@ -12,7 +12,7 @@ an android developer treading the path of becoming a software engineer.
 <!--[![GitHub](https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white)](https://guimaraaes.github.io/guimaraaes/)-->
 
 See my portfolio:
-http://aidev.com.br
+https://anthoniip.github.io/
 
 ## :wrench: Skills
 
