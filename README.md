@@ -25,6 +25,7 @@ https://anthoniip.github.io/
 <code><img height="40" src="https://github.com/AnthoniIP/AnthoniIP/blob/master/assets/java.png"></code>
 <code><img height="40" src="https://github.com/AnthoniIP/AnthoniIP/blob/master/assets/Kotlin.png"></code>
 <code><img height="40" src="https://github.com/AnthoniIP/AnthoniIP/blob/master/assets/suspend.png"></code>
+<code><img height="40" src="https://github.com/AnthoniIP/AnthoniIP/blob/master/assets/rxjava.png"></code>
 <code><img height="40" src="https://github.com/AnthoniIP/AnthoniIP/blob/master/assets/firebase.png"></code>
 <code><img height="40" src="https://github.com/AnthoniIP/AnthoniIP/blob/master/assets/material.png"></code>
 <code><img height="40" src="https://github.com/AnthoniIP/AnthoniIP/blob/master/assets/retrofit.png"></code>
