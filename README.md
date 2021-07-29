@@ -4,7 +4,7 @@ I'm an Android developer.
 
 🇧🇷 Born and live in Macapá,Amapá,Brazil
 
-My strong skills are:
+### My strong skills are:
 
 Android SDK (Application,Activity,fragment,Service,ContentProvider)
 
@@ -46,7 +46,7 @@ Coroutines
 
 Along with my knowledge of kotlin and Android, I apply clean code concepts, S.O.L.I.D. principles, I use architectures like MVP and MVVM and share responsibility for the components of my layered applications. Also, I am currently studying clean architecture concepts and applying them to my projects.
 
-check my portfolio:
+### Check my portfolio:
 https://anthoniip.github.io/
 
 I was born, grew up and currently live in Macapá, Amapá, Brazil.
