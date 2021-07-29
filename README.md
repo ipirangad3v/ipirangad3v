@@ -7,23 +7,41 @@ I'm an Android developer.
 My strong skills are:
 
 Android SDK (Application,Activity,fragment,Service,ContentProvider)
+
 Android Jetpack(Room,Navigation,Compose)
+
 Android Studio
+
 Google API's (Google Maps SDK, Firebase)
+
 Clean code
+
 Clean Architecture
+
 REST API's
+
 Object-oriented programming
+
 Functional programming
+
 Reactive programming
+
 Git/GitHub
+
 Dependency injection with Koin
+
 Java
+
 Kotlin
+
 Agile Methodologies (Scrum)
+
 MVVM
+
 RxJava
+
 SOLID
+
 Coroutines
 
 Along with my knowledge of kotlin and Android, I apply clean code concepts, S.O.L.I.D. principles, I use architectures like MVP and MVVM and share responsibility for the components of my layered applications. Also, I am currently studying clean architecture concepts and applying them to my projects.
