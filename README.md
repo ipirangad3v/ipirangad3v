@@ -1,7 +1,41 @@
 ## Hi, i'm Anthoni Ipiranga
-an android developer treading the path of becoming a software engineer.
+
+I'm an Android developer.
 
 🇧🇷 Born and live in Macapá,Amapá,Brazil
+
+My strong skills are:
+
+Android SDK (Application,Activity,fragment,Service,ContentProvider)
+Android Jetpack(Room,Navigation,Compose)
+Android Studio
+Google API's (Google Maps SDK, Firebase)
+Clean code
+Clean Architecture
+REST API's
+Object-oriented programming
+Functional programming
+Reactive programming
+Git/GitHub
+Dependency injection with Koin
+Java
+Kotlin
+Agile Methodologies (Scrum)
+MVVM
+RxJava
+SOLID
+Coroutines
+
+Along with my knowledge of kotlin and Android, I apply clean code concepts, S.O.L.I.D. principles, I use architectures like MVP and MVVM and share responsibility for the components of my layered applications. Also, I am currently studying clean architecture concepts and applying them to my projects.
+
+check my portfolio:
+https://anthoniip.github.io/
+
+I was born, grew up and currently live in Macapá, Amapá, Brazil.
+
+I love technology. I am graduated as a computer network technician and am currently studying computer science at UNIFAP.
+
+I have worked with technical support, network analysis and today I face the challenge of being a programmer. I started my studies in Java and with it I learned several concepts of OOP and functional programming. Currently I am dedicated to the development of Android apps in Kotlin.
 
 ## :mailbox: Say Hi
 
