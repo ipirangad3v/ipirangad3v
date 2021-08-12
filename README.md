@@ -1,6 +1,6 @@
 ## Hi, i'm Anthoni Ipiranga
 
-I'm an Android developer.
+I'm an Android developer and software craftsman.
 
 🇧🇷 Born and live in Macapá,Amapá,Brazil
 
