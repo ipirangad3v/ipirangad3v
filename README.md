@@ -12,7 +12,7 @@ https://anthoniip.github.io/
 
 I love technology. I am graduated as a computer network technician and am currently studying computer science at UNIFAP.
 
-I have worked with technical support, network analysis and today I face the challenge of being a programmer. I started my studies in Java and with it I learned several concepts of OOP and functional programming. Currently I am dedicated to the development of Android apps in Kotlin.
+I have worked with technical support, network analysis and today I face the challenge of being a programmer. I started my studies in Java and c++ and with them I learned several concepts of OOP and functional programming. Currently I am dedicated to the development of Android apps in Kotlin.
 
 ## :mailbox: Say Hi
 
