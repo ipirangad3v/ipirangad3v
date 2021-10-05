@@ -1,6 +1,6 @@
 ## Hi, i'm Anthoni Ipiranga
 
-I'm an Android developer and software craftsman.
+I'm an Android developer and my goal is become a software engineer at google.
 
 🇧🇷 Born and live in Macapá,Amapá,Brazil
 
