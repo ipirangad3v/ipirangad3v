@@ -6,13 +6,15 @@ I'm an Android developer and my goal is become a software engineer at google.
 
 ###  🚀 The road so far:
 
-✅**Android Dev** <-- I'm here
+✅ **Android Dev** <-- **I'm here**
 
 ###  🗾 Next steps:
 
-📍Flutter Dev
-📍IOS dev
-📍Software engineer
+📍 Flutter Dev
+
+📍 IOS dev
+
+📍 Software engineer
 
 
 
