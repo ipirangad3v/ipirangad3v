@@ -4,6 +4,17 @@ I'm an Android developer and my goal is become a software engineer at google.
 
 🇧🇷 Born and live in Macapá,Amapá,Brazil
 
+###  🚀 The road so far:
+
+✅**Android Dev** <-- I'm here
+
+###  🗾 Next steps:
+
+📍Flutter Dev
+📍IOS dev
+📍Software engineer
+
+
 
 
 ### Check my portfolio:
