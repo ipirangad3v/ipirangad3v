@@ -11,10 +11,10 @@
 
 🚀 **the road so far:**
 
-✅ **Android Dev <-- I'm here **
+✅ **Android Dev <-- I'm here**
 
 
-🗾 Next steps:
+🗾 **Next steps:**
 
 📍 Flutter Dev
 
@@ -65,10 +65,10 @@ https://anthoniip.github.io/
 
 · Coroutines
 
-📊 Would you like to hire my services?
+📊 **Would you like to hire my services?**
 access https://www.ipirangasoft.com.br/ and see how I can contribute to your projects.
 
-🤓 A little more about me:
+🤓 **A little more about me:**
 
 Along with my knowledge of kotlin and Android, I apply clean code concepts, S.O.L.I.D. and architectures like MVP and MVVM. Also, I love the concepts of clean architecture and I always apply it in my projects.
 
@@ -76,7 +76,7 @@ I'm currently learning mobile development with flutter framework and dart langua
 
   I've worked as technical support, network analysis and today I'm facing the challenge of being a programmer. I started in the world of programming with self-taught Java and C++ at the university and with them I learned several concepts of programming logic, OOP and functional programming.
 
-👋🏻## :mailbox: Say Hi 
+👋🏻 ## :mailbox: Say Hi 
 
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anthoni.ipiranga@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anthoniipiranga/)
