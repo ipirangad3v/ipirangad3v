@@ -9,9 +9,11 @@
 🎯 What is my goal? Be a software engineer at google. Do you have any tips on how I can get there? Send me a message 🎯
 
 
+
 🚀 **the road so far:**
 
 ✅ **Android Dev <-- I'm here**
+
 
 
 🗾 **Next steps:**
@@ -22,12 +24,16 @@
 
 📍 Software engineer
 
+
+
 💼 **see my portfolio:**
 https://anthoniip.github.io/
 
-🔧 **My strong skills are:**
 
-· Android SDK (Application,Activity,fragment,Service,ContentProvider)
+<details>
+  <summary>🔧 **My strong skills are:**</summary>
+  
+  · Android SDK (Application,Activity,fragment,Service,ContentProvider)
 
 · Android Jetpack(Room,Navigation,Compose)
 
@@ -64,6 +70,12 @@ https://anthoniip.github.io/
 · SOLID
 
 · Coroutines
+  
+</details>
+
+
+
+
 
 📊 **Would you like to hire my services?**
 access https://www.ipirangasoft.com.br/ and see how I can contribute to your projects.
