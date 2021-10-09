@@ -8,13 +8,13 @@
 
 🎯 What is my goal? Be a software engineer at google. Do you have any tips on how I can get there? Send me a message 🎯
 
-
+</br>
 
 🚀 **the road so far:**
 
 ✅ **Android Dev <-- I'm here**
 
-
+</br>
 
 🗾 **Next steps:**
 
@@ -24,16 +24,16 @@
 
 📍 Software engineer
 
-
+</br>
 
 💼 **see my portfolio:**
 https://anthoniip.github.io/
 
-
+</br>
 <details>
-  <summary>🔧 ##My strong skills are:</summary>
+  <summary>🔧 My strong skills are(click to expand!)</summary>
   
-  
+  </br>
   
 · Android SDK (Application,Activity,fragment,Service,ContentProvider)
 
@@ -75,12 +75,14 @@ https://anthoniip.github.io/
   
 </details>
 
-
+</br>
 
 
 
 📊 **Would you like to hire my services?**
 access https://www.ipirangasoft.com.br/ and see how I can contribute to your projects.
+
+</br>
 
 🤓 **A little more about me:**
 
@@ -89,6 +91,8 @@ Along with my knowledge of kotlin and Android, I apply clean code concepts, S.O.
 I'm currently learning mobile development with flutter framework and dart language in addition to IOS development with swift.
 
   I've worked as technical support, network analysis and today I'm facing the challenge of being a programmer. I started in the world of programming with self-taught Java and C++ at the university and with them I learned several concepts of programming logic, OOP and functional programming.
+  
+  </br>
 
 :mailbox: ##Say Hi 
 
@@ -97,6 +101,8 @@ I'm currently learning mobile development with flutter framework and dart langua
 [<img height="25" src="https://i.imgur.com/2iVxee6.png">![Curriculum](https://img.shields.io/badge/lattes-%23100000?logoColor=blue&style=for-the-badge)](https://anthoniip.github.io/)
 [![YouTube](https://img.shields.io/badge/-YOUTUBE-D14836?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCNyTace0PmFnXL1aSyH008A/videos)
 <!--[![GitHub](https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white)](https://guimaraaes.github.io/guimaraaes/)-->
+
+</br>
 
 📊 ##Stats 
 
