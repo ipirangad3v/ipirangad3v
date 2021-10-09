@@ -20,29 +20,47 @@
 
 📍 Software engineer
 
-💼 see my portfolio:
+💼 **see my portfolio:**
 https://anthoniip.github.io/
 
 🔧 **My strong skills are:**
 
 · Android SDK (Application,Activity,fragment,Service,ContentProvider)
+
 · Android Jetpack(Room,Navigation,Compose)
+
 · Android Studio
+
 · Google API's (Google Maps SDK, Firebase)
+
 · Clean code
+
 · Clean Architecture
+
 · Consumption of REST API's
+
 · Object-oriented programming
+
 · Functional programming
+
 · Reactive programming
+
 · Git/GitHub
+
 · Dependency injection with Koin and hilt
+
 · Java
+
 · Kotlin
+
 · Agile Methodologies (Scrum & Kanban)
+
 · MVVM
+
 · RxJava
+
 · SOLID
+
 · Coroutines
 
 📊 Would you like to hire my services?
@@ -54,9 +72,9 @@ Along with my knowledge of kotlin and Android, I apply clean code concepts, S.O.
 
 I'm currently learning mobile development with flutter framework and dart language in addition to IOS development with swift.
 
-I've worked with technical support, network analysis and today I'm facing the challenge of being a programmer. I started in the world of self-taught Java and C++ programming at the university and with them I learned several concepts of programming logic, OOP and functional programming.
+  I've worked as technical support, network analysis and today I'm facing the challenge of being a programmer. I started in the world of programming with self-taught Java and C++ at the university and with them I learned several concepts of programming logic, OOP and functional programming.
 
-## :mailbox: Say Hi
+👋🏻## :mailbox: Say Hi 
 
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anthoni.ipiranga@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anthoniipiranga/)
@@ -64,7 +82,7 @@ I've worked with technical support, network analysis and today I'm facing the ch
 [![YouTube](https://img.shields.io/badge/-YOUTUBE-D14836?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCNyTace0PmFnXL1aSyH008A/videos)
 <!--[![GitHub](https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white)](https://guimaraaes.github.io/guimaraaes/)-->
 
-## :wrench: Skills
+## :wrench: Skills 
 
 <code><img height="40" src="https://github.com/AnthoniIP/AnthoniIP/blob/master/assets/android.png"></code>
 <code><img height="40" src="https://github.com/AnthoniIP/AnthoniIP/blob/master/assets/jetkpack.png"></code>
@@ -81,7 +99,7 @@ I've worked with technical support, network analysis and today I'm facing the ch
 <code><img height="40" src="https://github.com/AnthoniIP/AnthoniIP/blob/master/assets/retrofit.png"></code>
 
 
-## Stats
+📊 ## Stats 
 
 <p align="center">
 <a href="https://github.com/AnthoniIP">
