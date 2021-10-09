@@ -2,6 +2,8 @@
 
 I'm an Android developer and my goal is becoming a software engineer at google.
 
+📚 computer science student - UNIFAP 
+
 🇧🇷 Born and live in Macapá,Amapá,Brazil
 
 ###  🚀 The road so far:
