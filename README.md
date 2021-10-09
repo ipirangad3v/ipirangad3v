@@ -31,7 +31,7 @@ https://anthoniip.github.io/
 
 </br>
 <details>
-  <summary>🔧 My strong skills are(click to expand!)</summary>
+  <summary>🔧 **Skills** (click to expand!)</summary>
   
   </br>
   
