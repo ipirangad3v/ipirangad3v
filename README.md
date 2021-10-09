@@ -8,9 +8,11 @@
 
 🎯 What is my goal? Be a software engineer at google. Do you have any tips on how I can get there? Send me a message 🎯
 
+
 🚀 **the road so far:**
 
 ✅ **Android Dev <-- I'm here **
+
 
 🗾 Next steps:
 
