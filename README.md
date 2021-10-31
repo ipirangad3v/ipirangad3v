@@ -18,9 +18,13 @@
 
 🗾 **Next steps:**
 
+📍 Google Associate Android Developer
+
 📍 Android software architect
 
 📍 Android Software engineer
+
+📍 Google Software engineer
 
 </br>
 
