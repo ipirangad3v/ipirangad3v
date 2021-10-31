@@ -18,11 +18,9 @@
 
 🗾 **Next steps:**
 
-📍 Flutter Dev
+📍 Android software architect
 
-📍 iOS dev
-
-📍 Software engineer
+📍 Android Software engineer
 
 </br>
 
