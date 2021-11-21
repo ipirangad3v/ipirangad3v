@@ -2,7 +2,7 @@
 
 👋🏻 I'm a passionate technology developer.
 
-💪🏻 I'm currently focused on android development and working at HANZO on gurmit and mastercard surprise projects.
+💪🏻 I'm currently focused on android development and working at Aiqfome / Magalu group.
 
 📚 I am a computer science student at UNIFAP and graduated as a computer network technician at IFAP.
 
