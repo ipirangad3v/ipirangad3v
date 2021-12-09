@@ -12,17 +12,13 @@
 
 🚀 **the road so far:**
 
-✅ **Android Dev <-- I'm here**
+✅ **Android Dev / Android Engineer <-- I'm here**
 
 </br>
 
 🗾 **Next steps:**
 
 📍 Google Associate Android Developer
-
-📍 Android software architect
-
-📍 Android Software engineer
 
 📍 Google Software engineer
 
