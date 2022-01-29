@@ -75,13 +75,6 @@ https://anthoniip.github.io/
 
 </br>
 
-
-
-📊 **Would you like to hire my services?**
-access https://www.ipirangasoft.com.br/ and see how I can contribute to your projects.
-
-</br>
-
 🤓 **A little more about me:**
 
 Along with my knowledge of kotlin and Android, I apply clean code concepts, S.O.L.I.D. and architectures like MVP and MVVM. Also, I love the concepts of clean architecture and I always apply it in my projects.
