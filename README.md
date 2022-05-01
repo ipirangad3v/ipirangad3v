@@ -22,10 +22,6 @@
 
 📍 Google Software engineer
 
-</br>
-
-💼 **see my portfolio:**
-https://anthoniip.github.io/
 
 </br>
 <details>
