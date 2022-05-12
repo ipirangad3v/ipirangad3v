@@ -4,10 +4,6 @@
 
 💪🏻 I'm currently focused on android development and working at Aiqfome / Magalu group.
 
-📚 I am a computer science student at UNIFAP and graduated as a computer network technician at IFAP.
-
-🎯 What is my goal? Be a software engineer at google. Do you have any tips on how I can get there? Send me a message 🎯
-
 </br>
 
 🚀 **the road so far:**
@@ -19,8 +15,6 @@
 🗾 **Next steps:**
 
 📍 Google Associate Android Developer
-
-📍 Google Software engineer
 
 
 </br>
