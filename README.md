@@ -89,8 +89,7 @@ I'm currently learning mobile development with flutter framework and dart langua
 
 <p align="center">
 <a href="https://github.com/AnthoniIP">
-<img height="170em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anthoniip&layout=compact" />
-<img height="170em" align="left" src="https://github-readme-stats.vercel.app/api?username=anthoniip&show_icons=true" />
+<img height="170em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anthoniip&layout=compact" />
 </a>
 </p>
 
