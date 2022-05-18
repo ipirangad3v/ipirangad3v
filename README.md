@@ -79,9 +79,6 @@ I'm currently learning mobile development with flutter framework and dart langua
 
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anthoni.ipiranga@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anthoniipiranga/)
-[<img height="25" src="https://i.imgur.com/2iVxee6.png">![Curriculum](https://img.shields.io/badge/lattes-%23100000?logoColor=blue&style=for-the-badge)](https://anthoniip.github.io/)
-[![YouTube](https://img.shields.io/badge/-YOUTUBE-D14836?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCzCp52wboLCtBRsI4W7xD_w/videos)
-<!--[![GitHub](https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white)](https://guimaraaes.github.io/guimaraaes/)-->
 
 </br>
 
