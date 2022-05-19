@@ -20,8 +20,7 @@
 
 
 </br>
-<details>
-  <summary>🔧 **Skills** (click to expand!)</summary>
+  **I have high experience with:**
   
   </br>
   
@@ -45,7 +44,7 @@
 
 · Reactive programming
 
-· Git/GitHub
+· Git/GitHub/GitLab/BitBucket
 
 · Dependency injection with Koin and hilt
 
@@ -63,8 +62,6 @@
 
 · Coroutines
   
-</details>
-
 </br>
 
 🤓 **A little more about me:**
