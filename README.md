@@ -46,6 +46,8 @@
 
 · Git/GitHub/GitLab/BitBucket
 
+· GitFlow
+
 · Dependency injection with Koin and hilt
 
 · Java
