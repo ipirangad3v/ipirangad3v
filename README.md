@@ -2,7 +2,7 @@
 
 👋🏻 I'm a passionate technology developer.
 
-💪🏻 I'm currently focused on android development and working at Aiqfome / Magalu group.
+💪🏻 I'm currently focused on android development and working at 🟣 Aiqfome by Magalu 🟣
 
 </br>
 
@@ -16,7 +16,7 @@
 
 📍 Google Associate Android Developer
 
-📍 Add IOS development with Swift to my skill repertoire.
+📍 Learn IOS development
 
 
 </br>
