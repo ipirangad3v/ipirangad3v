@@ -1,5 +1,7 @@
 ## Hi, i'm Anthoni Ipiranga
 
+(I'm currently not uploading any new project to my github, new projects are in [!BitBucket]([https://bitbucket.org/AnthoniIP)])
+
 👋🏻 I'm a passionate technology developer.
 
 💪🏻 I'm currently focused on android development and working at 🟣 Aiqfome by Magalu 🟣
