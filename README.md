@@ -1,6 +1,6 @@
 ## Hi, i'm Anthoni Ipiranga
 
-(I'm currently not uploading any new project to my github, new projects are in [BitBucket]([https://www.google.com](https://bitbucket.org/AnthoniIP))
+(I'm currently not uploading any new project to my github, new projects are in [BitBucket](https://www.google.com](https://bitbucket.org/AnthoniIP)
 
 👋🏻 I'm a passionate technology developer.
 
