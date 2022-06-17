@@ -14,15 +14,15 @@
 
 ###
 
-<h4 align="left">🚀 **the road so far:**</h4>
+🚀 **the road so far:**
 
 ###
 
-<p align="left">✅ **Android Dev / Android Engineer <-- I'm here**</p>
+✅ **Android Dev / Android Engineer <-- I'm here**
 
 ###
 
-<h4 align="left">🗾 **Next steps:**</h4>
+🗾 **Next steps:**
 
 ###
 
