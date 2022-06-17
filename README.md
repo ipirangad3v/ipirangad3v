@@ -30,12 +30,9 @@
 
 ###
 
-
-
-###
-
 <details>
-  <summary>🔧 I have high experience with:</summary>
+  <summary>🔧 I have high experience with: (click to expand)</summary>
+  <br>
   <p align="left">· Android SDK (Application,Activity,fragment,Service,ContentProvider)<br><br>· Android Jetpack(Room,Navigation,Compose)<br><br>· Android Studio<br><br>· Google API's (Google Maps SDK, Firebase)<br><br>· Clean code<br><br>· Clean Architecture<br><br>· Consumption of REST API's<br><br>· Object-oriented programming<br><br>· Functional programming<br><br>· Reactive programming<br><br>· Git/GitHub/GitLab/BitBucket<br><br>· GitFlow<br><br>· Dependency injection with Koin and hilt<br><br>· Java<br><br>· Kotlin<br><br>· Agile Methodologies (Scrum & Kanban)<br><br>· MVVM<br><br>· RxJava<br><br>· SOLID<br><br>· Coroutines</p>
   </details>
 
