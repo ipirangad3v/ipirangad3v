@@ -46,11 +46,11 @@
 
 ###
 
-<h4 align="left">My Stack:</h4>
+<h2 align="center">My Stack:</h2>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" width="52" alt="android logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" width="52" alt="java logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" width="52" alt="kotlin logo"  />
@@ -71,11 +71,11 @@
 
 ###
 
-<h4 align="left">Let`s connect</h4>
+<h2 align="center">Let`s connect</h2>
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="https://www.linkedin.com/in/anthoniipiranga/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
