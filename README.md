@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="left"># I'm currently not uploading any new project to my github, new projects are in my [BitBucket](https://bitbucket.org/AnthoniIP)</h4>
+# I'm currently not uploading any new project to my github, new projects are in my [BitBucket](https://bitbucket.org/AnthoniIP)
 
 ###
 
