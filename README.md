@@ -34,11 +34,13 @@
 
 ###
 
-<p align="left">· Android SDK (Application,Activity,fragment,Service,ContentProvider)<br><br>· Android Jetpack(Room,Navigation,Compose)<br><br>· Android Studio<br><br>· Google API's (Google Maps SDK, Firebase)<br><br>· Clean code<br><br>· Clean Architecture<br><br>· Consumption of REST API's<br><br>· Object-oriented programming<br><br>· Functional programming<br><br>· Reactive programming<br><br>· Git/GitHub/GitLab/BitBucket<br><br>· GitFlow<br><br>· Dependency injection with Koin and hilt<br><br>· Java<br><br>· Kotlin<br><br>· Agile Methodologies (Scrum & Kanban)<br><br>· MVVM<br><br>· RxJava<br><br>· SOLID<br><br>· Coroutines</p>
+<details>
+  <p align="left">· Android SDK (Application,Activity,fragment,Service,ContentProvider)<br><br>· Android Jetpack(Room,Navigation,Compose)<br><br>· Android Studio<br><br>· Google API's (Google Maps SDK, Firebase)<br><br>· Clean code<br><br>· Clean Architecture<br><br>· Consumption of REST API's<br><br>· Object-oriented programming<br><br>· Functional programming<br><br>· Reactive programming<br><br>· Git/GitHub/GitLab/BitBucket<br><br>· GitFlow<br><br>· Dependency injection with Koin and hilt<br><br>· Java<br><br>· Kotlin<br><br>· Agile Methodologies (Scrum & Kanban)<br><br>· MVVM<br><br>· RxJava<br><br>· SOLID<br><br>· Coroutines</p>
+  </details>
 
 ###
 
-<h4 align="left">🤓 **A little more about me:**</h4>
+**A little more about me:**
 
 ###
 
@@ -68,10 +70,6 @@
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=AnthoniIP" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=AnthoniIP" height="150" alt="languages graph"  />
 </div>
-
-###
-
-<img href="https://raw.githubusercontent.com/AnthoniIP/AnthoniIP/blob/output/snake.svg" alt="Snake animation" />
 
 ###
 
