@@ -30,7 +30,7 @@
 
 ###
 
-<h4 align="left">🔧 **I have high experience with:**</h4>
+🔧 **I have high experience with:**
 
 ###
 
