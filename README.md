@@ -1,98 +1,100 @@
-# Hi, i'm Anthoni Ipiranga
+<h2 align="left">Hi, i'm Anthoni Ipiranga</h2>
 
-# I'm currently not uploading any new project to my github, new projects are in my [BitBucket](https://bitbucket.org/AnthoniIP)
+###
 
-👋🏻 I'm a passionate technology developer.
+<h4 align="left"># I'm currently not uploading any new project to my github, new projects are in my [BitBucket](https://bitbucket.org/AnthoniIP)</h4>
 
-💪🏻 I'm currently focused on android development and working at 🟣 Aiqfome by Magalu 🟣
+###
 
-</br>
+<p align="left">👋🏻 I'm a passionate technology developer.</p>
 
-🚀 **the road so far:**
+###
 
-✅ **Android Dev / Android Engineer <-- I'm here**
+<p align="left">💪🏻 I'm currently focused on android development and working at 🟣 Aiqfome by Magalu 🟣</p>
 
-</br>
+###
 
-🗾 **Next steps:**
+<h4 align="left">🚀 **the road so far:**</h4>
 
-📍 Google Associate Android Developer
+###
 
-📍 Learn IOS development
+<p align="left">✅ **Android Dev / Android Engineer <-- I'm here**</p>
 
+###
 
-</br>
+<h4 align="left">🗾 **Next steps:**</h4>
 
- 🔧 **I have high experience with:**
-  
-  
-  </br>
-  
-· Android SDK (Application,Activity,fragment,Service,ContentProvider)
+###
 
-· Android Jetpack(Room,Navigation,Compose)
+<p align="left">📍 Google Associate Android Developer<br><br>📍 Learn IOS development</p>
 
-· Android Studio
+###
 
-· Google API's (Google Maps SDK, Firebase)
+<h4 align="left">🔧 **I have high experience with:**</h4>
 
-· Clean code
+###
 
-· Clean Architecture
+<p align="left">· Android SDK (Application,Activity,fragment,Service,ContentProvider)<br><br>· Android Jetpack(Room,Navigation,Compose)<br><br>· Android Studio<br><br>· Google API's (Google Maps SDK, Firebase)<br><br>· Clean code<br><br>· Clean Architecture<br><br>· Consumption of REST API's<br><br>· Object-oriented programming<br><br>· Functional programming<br><br>· Reactive programming<br><br>· Git/GitHub/GitLab/BitBucket<br><br>· GitFlow<br><br>· Dependency injection with Koin and hilt<br><br>· Java<br><br>· Kotlin<br><br>· Agile Methodologies (Scrum & Kanban)<br><br>· MVVM<br><br>· RxJava<br><br>· SOLID<br><br>· Coroutines</p>
 
-· Consumption of REST API's
+###
 
-· Object-oriented programming
+<h4 align="left">🤓 **A little more about me:**</h4>
 
-· Functional programming
+###
 
-· Reactive programming
+<p align="left">Along with my knowledge of kotlin and Android, I apply clean code concepts, S.O.L.I.D. and architectures like MVP and MVVM. Also, I love the concepts of clean architecture and I always apply it in my projects.<br><br>I'm currently learning mobile development with flutter framework and dart language in addition to IOS development with swift.<br><br>  I've worked as technical support, network analysis and today I'm facing the challenge of being a programmer. I started in the world of programming with self-taught Java and C++ at the university and with them I learned several concepts of programming logic, OOP and functional programming.</p>
 
-· Git/GitHub/GitLab/BitBucket
+###
 
-· GitFlow
+<h4 align="left">My Stack:</h4>
 
-· Dependency injection with Koin and hilt
+###
 
-· Java
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" width="52" alt="android logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" width="52" alt="java logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" width="52" alt="kotlin logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" width="52" alt="firebase logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" width="52" alt="googlecloud logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="52" alt="mysql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" width="52" alt="figma logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" height="40" width="52" alt="gradle logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" width="52" alt="jira logo"  />
+</div>
 
-· Kotlin
+###
 
-· Agile Methodologies (Scrum & Kanban)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=AnthoniIP" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=AnthoniIP" height="150" alt="languages graph"  />
+</div>
 
-· MVVM
+###
 
-· RxJava
+<img href="https://raw.githubusercontent.com/AnthoniIP/AnthoniIP/blob/output/snake.svg" alt="Snake animation" />
 
-· SOLID
+###
 
-· Coroutines
-  
-</br>
+<h4 align="left">Let`s connect</h4>
 
-🤓 **A little more about me:**
+###
 
-Along with my knowledge of kotlin and Android, I apply clean code concepts, S.O.L.I.D. and architectures like MVP and MVVM. Also, I love the concepts of clean architecture and I always apply it in my projects.
+<div align="left">
+  <a href="https://www.linkedin.com/in/anthoniipiranga/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.youtube.com/channel/UCzCp52wboLCtBRsI4W7xD_w" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+  </a>
+  <a href="anthoni.ipiranga@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+  <a href="https://linktr.ee/anthoniip" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linktree/default.svg" width="52" height="40" alt="linktree logo"  />
+  </a>
+  <a href="https://api.whatsapp.com/send?phone=5596981140696&text=Hi,%20Anthoni!" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
+  </a>
+</div>
 
-I'm currently learning mobile development with flutter framework and dart language in addition to IOS development with swift.
-
-  I've worked as technical support, network analysis and today I'm facing the challenge of being a programmer. I started in the world of programming with self-taught Java and C++ at the university and with them I learned several concepts of programming logic, OOP and functional programming.
-  
-  </br>
-
-:mailbox: **Say Hi** 
-
-[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anthoniipiranga/)
-[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anthoni.ipiranga@gmail.com)
-
-
-</br>
-
-📊 **Stats**
-
-<p align="center">
-<a href="https://github.com/AnthoniIP">
-<img height="170em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anthoniip&layout=compact" />
-</a>
-</p>
-
+###
