@@ -82,7 +82,7 @@
   <a href="https://www.youtube.com/channel/UCzCp52wboLCtBRsI4W7xD_w" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
   </a>
-  <a href="anthoni.ipiranga@gmail.com" target="_blank">
+  <a href="mailto:anthoni.ipiranga@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
   <a href="https://linktr.ee/anthoniip" target="_blank">
