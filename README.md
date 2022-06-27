@@ -2,7 +2,7 @@
 
 ###
 
-## I'm currently not uploading any new project to my github, new projects are in my [BitBucket](https://bitbucket.org/AnthoniIP)
+## Check some projects at my [BitBucket](https://bitbucket.org/AnthoniIP)
 
 ###
 
