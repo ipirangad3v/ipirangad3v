@@ -10,22 +10,6 @@
 
 ###
 
-🚀 **the road so far:**
-
-###
-
-✅ **Android Dev / Android Engineer <-- I'm here**
-
-###
-
-🗾 **Next steps:**
-
-###
-
-<p align="left">📍 Google Associate Android Developer<br><br>📍 Learn IOS development</p>
-
-###
-
 <details>
   <summary>🔧 I have high experience with: (click to expand)</summary>
   <br>
