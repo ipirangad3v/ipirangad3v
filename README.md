@@ -2,10 +2,6 @@
 
 ###
 
-## Check some projects at my [BitBucket](https://bitbucket.org/AnthoniIP)
-
-###
-
 <p align="left">👋🏻 I'm a passionate technology developer.</p>
 
 ###
