@@ -1,76 +1,24 @@
-<h2 align="left">Hi, i'm Anthoni Ipiranga</h2>
 
-###
+<h1 align="center">Hi 👋, I'm Anthoni Ipiranga</h1>
+<h3 align="center">A passionate Android developer from Brazil</h3>
 
-<p align="left">👋🏻 I'm a passionate technology developer.</p>
-
-###
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=anthoniip&label=Profile%20views&color=0e75b6&style=flat" alt="anthoniip" /> </p>
 
 <p align="left">💪🏻 I'm currently focused on android development and working at 🟣 Aiqfome by Magalu 🟣</p>
 
-###
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anthoniip" alt="anthoniip" /></a> </p>
 
-<details>
-  <summary>🔧 I have solid experience with: (click to expand)</summary>
-  <br>
-  <p align="left">· Android SDK (Application,Activity,fragment,Service,ContentProvider)<br><br>· Android Jetpack(Room,Navigation,Compose)<br><br>· Android Studio<br><br>· Google API's (Google Maps SDK, Firebase)<br><br>· Clean code<br><br>· Clean Architecture<br><br>· Consumption of REST API's<br><br>· Object-oriented programming<br><br>· Functional programming<br><br>· Reactive programming<br><br>· Git/GitHub/GitLab/BitBucket<br><br>· GitFlow<br><br>· Dependency injection with Koin and hilt<br><br>· Java<br><br>· Kotlin<br><br>· Agile Methodologies (Scrum & Kanban)<br><br>· MVVM<br><br>· RxJava<br><br>· SOLID<br><br>· Coroutines</p>
-  </details>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/anthoniipiranga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anthoniipiranga" height="30" width="40" /></a>
+<a href="https://instagram.com/thony1p" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thony1p" height="30" width="40" /></a>
+</p>
 
-###
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
 
-**A little more about me:**
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anthoniip&show_icons=true&locale=en&layout=compact" alt="anthoniip" /></p>
 
-###
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anthoniip&show_icons=true&locale=en" alt="anthoniip" /></p>
 
-<p align="left">Along with my knowledge of kotlin and Android, I apply clean code concepts, S.O.L.I.D. and architectures like MVP and MVVM. Also, I love the concepts of clean architecture and I always apply it in my projects.<br><br> I've worked as technical support, network analysis and today I'm facing the challenge of being a programmer. I started in the world of programming with self-taught Java and C++ at the university and with them I learned several concepts of programming logic, OOP and functional programming.</p>
-
-###
-
-<h2 align="center">My Stack:</h2>
-
-###
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" width="52" alt="android logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" width="52" alt="java logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" width="52" alt="kotlin logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" width="52" alt="firebase logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" width="52" alt="googlecloud logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="52" alt="mysql logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" width="52" alt="figma logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" height="40" width="52" alt="gradle logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" width="52" alt="jira logo"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=AnthoniIP" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=AnthoniIP" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<h2 align="center">Let`s connect</h2>
-
-###
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/anthoniipiranga/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.youtube.com/channel/UCzCp52wboLCtBRsI4W7xD_w" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-  </a>
-  <a href="mailto:anthoni.ipiranga@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-  <a href="https://linktr.ee/anthoniip" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linktree/default.svg" width="52" height="40" alt="linktree logo"  />
-  </a>
-  <a href="https://api.whatsapp.com/send?phone=5596981140696&text=Hi,%20Anthoni!" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
-  </a>
-</div>
-
-###
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anthoniip&" alt="anthoniip" /></p>
