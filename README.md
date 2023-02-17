@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anthoniip&label=Profile%20views&color=0e75b6&style=flat" alt="anthoniip" /> </p>
 
-<p align="left">💪🏻 I'm currently focused on android development and working at 🟣 Aiqfome by Magalu 🟣</p>
+<p align="left">💪🏻 I'm currently focused on android development and open to new oportunities</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
