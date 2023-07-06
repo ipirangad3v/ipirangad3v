@@ -39,12 +39,6 @@
     <li>Luizalabs, where I am currently contributing the superapp magalu Android app.</li>
 </ul>
 
-<p>
-    I also have an entrepreneurial streak and own my own company to develop applications, websites and systems for my
-    clients. My most recent project is "tô com sede", a project created to manage requests from a water distributor. In
-    this project I developed applications for Android and IOS. In addition to the "Notify me there" project, designed to
-    solve a personal problem of mine: receiving a reminder when I arrive at a certain location.
-</p>
 
 <h3> Past experiences:</h3>
 
