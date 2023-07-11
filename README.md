@@ -42,10 +42,12 @@
 
 <h3> Past experiences:</h3>
 
-<p> I've worked with helpdesk, network analysis and today I'm facing the challenge of being a programmer. I started in
-    the world of programming with Java in a self-taught way and c++ at the university and with them I learned several
-    concepts of programming logic, OOP and functional programming. I've always been self-taught and I believe that with
-    a lot of effort and study we can get anywhere.</p>
+<p> In the job market since I was 16 I've worked with helpdesk, network analysis and today I'm facing the challenge of being a programmer. I started in the world of programming with Java in a self-taught way and learned several concepts of programming logic, OOP and functional programming. I have always been fascinated by knowledge and I believe that with faith, effort and study we can get anywhere. </p>
+
+<h3> Background:</h3>
+
+<p>  I graduated as a computer network technician at IFAP and a technologist in mobile development at Ampli. Always in search of knowledge, at the moment I'm looking for a postgraduate degree in software engineering.</p>
+
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
