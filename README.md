@@ -61,9 +61,9 @@
 
 
 <p align="center"><img align="center"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=anthoniip&show_icons=true&locale=en&layout=compact"
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=ipirangad3v&show_icons=true&locale=en&layout=compact"
         alt="anthoniip" /></p>
 
 <p align="center">&nbsp;<img align="center"
-        src="https://github-readme-stats.vercel.app/api?username=anthoniip&show_icons=true&locale=en" alt="anthoniip" />
+        src="https://github-readme-stats.vercel.app/api?username=ipirangad3v&show_icons=true&locale=en" alt="anthoniip" />
 </p>
