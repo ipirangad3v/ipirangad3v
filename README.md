@@ -28,25 +28,7 @@
         alt="anthoniip" /> </p>
 
 
-<p>Hello. I'm a software developer with experience in mobile development, mostly native Android. Messing from time to
-    time with IOS and KMM.</p>
-
-<h3>I've had the opportunity to go through the companies:</h3>
-
-<ul>
-    <li>Hanzo, contributing to the Android apps: gurmit and mastercard surprise.</li>
-    <li>Aiqfome, contributing with the Android apps: robner and grandchef lite.</li>
-    <li>Luizalabs, where I am currently contributing the superapp magalu Android app.</li>
-</ul>
-
-
-<h3> Past experiences:</h3>
-
-<p> In the job market since I was 16 I've worked with helpdesk, network analysis and today I'm facing the challenge of being a programmer. I started in the world of programming with Java in a self-taught way and learned several concepts of programming logic, OOP and functional programming. I have always been fascinated by knowledge and I believe that with faith, effort and study we can get anywhere. </p>
-
-<h3> Background:</h3>
-
-<p>  I graduated as a computer network technician at IFAP and a technologist in mobile development at Ampli. Always in search of knowledge, at the moment I'm looking for a postgraduate degree in software engineering.</p>
+<p>Hello. I'm a software developer with experience in mobile development, mostly native Android.working sometimes with IOS and Kotlin Multiplatform.</p>
 
 
 <h3 align="center">Connect with me:</h3>
