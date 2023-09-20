@@ -13,20 +13,23 @@
             width="40" height="40" /> </a>
     <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img
             src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" height="40" /> </a>
-    <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img
-            src="https://developer.apple.com/swift/images/swift-logo.svg" alt="kotlin" width="40" /> </a>
-    <a href="https://flutter.dev/" target="_blank" rel="noreferrer"> <img
-            src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" height="40" /> </a>
-      <a href="https://kotlinlang.org/lp/multiplatform/" target="_blank" rel="noreferrer"> <img
-            src="https://plugins.jetbrains.com/files/14936/388255/icon/pluginIcon.svg" alt="kotlin multiplatform" height="40" /> </a>
+    <a href="https://kotlinlang.org/lp/multiplatform/" target="_blank" rel="noreferrer"> <img
+            src="https://plugins.jetbrains.com/files/14936/388255/icon/pluginIcon.svg" alt="kotlin multiplatform"
+            height="40" /> </a>
 </p>
+<a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img
+        src="https://developer.apple.com/swift/images/swift-logo.svg" alt="kotlin" width="40" /> </a>
+<a href="https://flutter.dev/" target="_blank" rel="noreferrer"> <img
+        src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" height="40" /> </a>
+
 
 <p align="center"> <img
         src="https://komarev.com/ghpvc/?username=anthoniip&label=Profile%20views&color=0e75b6&style=flat"
         alt="anthoniip" /> </p>
 
 
-<p>Hello. I'm a software developer with experience in mobile development. Totally open to other technologies, I also work with native IOS, KMP (Kotlin Multiplatform) and flutter</p>
+<p>Hello. I'm a software developer with experience in mobile development. Totally open to other technologies, I also
+    work with native IOS, KMP (Kotlin Multiplatform) and flutter</p>
 
 
 <h3 align="center">Connect with me:</h3>
@@ -43,4 +46,3 @@
 <p align="center"><img align="center"
         src="https://github-readme-stats.vercel.app/api/top-langs?username=ipirangad3v&show_icons=true&locale=en&layout=compact"
         alt="anthoniip" /></p>
-
