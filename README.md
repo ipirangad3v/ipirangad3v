@@ -28,7 +28,7 @@
         alt="anthoniip" /> </p>
 
 
-<p>Hello. I'm a software developer with experience in mobile development. Totally open to other technologies, I also
+<p>Hello. I'm a software developer with experience in mobile development, mainly focusing on native Android. Totally open to other technologies, I also
     work with native IOS, KMP (Kotlin Multiplatform) and flutter</p>
 
 
