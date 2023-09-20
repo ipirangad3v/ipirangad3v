@@ -16,11 +16,11 @@
     <a href="https://kotlinlang.org/lp/multiplatform/" target="_blank" rel="noreferrer"> <img
             src="https://plugins.jetbrains.com/files/14936/388255/icon/pluginIcon.svg" alt="kotlin multiplatform"
             height="40" /> </a>
-</p>
 <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img
         src="https://developer.apple.com/swift/images/swift-logo.svg" alt="kotlin" width="40" /> </a>
 <a href="https://flutter.dev/" target="_blank" rel="noreferrer"> <img
         src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" height="40" /> </a>
+        </p>
 
 
 <p align="center"> <img
