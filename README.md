@@ -21,6 +21,12 @@
             src="https://developer.apple.com/swift/images/swift-logo.svg" alt="kotlin" width="40" /> </a>
     <a href="https://postman.com" target="_blank" rel="noreferrer"> <img
             src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" height="40" /> </a>
+    <a href="https://postman.com" target="_blank" rel="noreferrer"> <img
+            src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" height="40" /> </a>
+    <a href="https://postman.com" target="_blank" rel="noreferrer"> <img
+            src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" height="40" /> </a>
+      <a href="https://postman.com" target="_blank" rel="noreferrer"> <img
+            src="https://plugins.jetbrains.com/files/14936/388255/icon/pluginIcon.svg" alt="kotlin multiplatform" height="40" /> </a>
 </p>
 
 <p align="center"> <img
@@ -28,7 +34,7 @@
         alt="anthoniip" /> </p>
 
 
-<p>Hello. I'm a software developer with experience in mobile development, mostly native Android.working sometimes with IOS and Kotlin Multiplatform.</p>
+<p>Hello. I'm a software developer with experience in mobile development. Totally open to other technologies, I also work with native IOS, KMP (Kotlin Multiplatform) and flutter</p>
 
 
 <h3 align="center">Connect with me:</h3>
