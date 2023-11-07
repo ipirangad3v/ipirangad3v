@@ -5,9 +5,6 @@
     <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img
             src="https://source.android.com/docs/setup/images/Android_symbol_green_RGB.svg" alt="android" height="40" />
     </a>
-    <a href="https://www.apple.com/ios" target="_blank" rel="noreferrer"> <img
-            src="https://upload.wikimedia.org/wikipedia/commons/c/ca/IOS_logo.svg" alt="android" height="40" /> </a>
-    </a>
     <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java"
             width="40" height="40" /> </a>
@@ -16,8 +13,6 @@
     <a href="https://kotlinlang.org/lp/multiplatform/" target="_blank" rel="noreferrer"> <img
             src="https://plugins.jetbrains.com/files/14936/388255/icon/pluginIcon.svg" alt="kotlin multiplatform"
             height="40" /> </a>
-<a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img
-        src="https://developer.apple.com/swift/images/swift-logo.svg" alt="kotlin" width="40" /> </a>
 <a href="https://flutter.dev/" target="_blank" rel="noreferrer"> <img
         src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" height="40" /> </a>
         </p>
@@ -29,7 +24,7 @@
 
 
 <p>Hello. I'm a software developer with experience in mobile development, mainly focusing on native Android. Totally open to other technologies, I also
-    work with native IOS, KMP (Kotlin Multiplatform) and flutter</p>
+    work with KMP (Kotlin Multiplatform), futtler and backend development in stacks related to java, kotlin and python ecosystems.</p>
 
 
 <h3 align="center">Connect with me:</h3>
