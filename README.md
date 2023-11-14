@@ -24,11 +24,11 @@
         src="https://komarev.com/ghpvc/?username=anthoniip&label=Profile%20views&color=0e75b6&style=flat"
         alt="anthoniip" /> </p>
 
-<p>Nice to meet you, I'm Anthoni Ipiranga, a programmer, developer, and software engineer. Probably not the best in the world at what I do, but striving every day to be better than my yesterday's self.</p>
+<p>Nice to meet you, I'm Anthoni Ipiranga, a programmer, developer, and software engineer.</p>
 
 
 <p>Hello. I have experience in mobile development, mainly focusing on native Android. Totally open to other technologies, I also
-    work with KMP (Kotlin Multiplatform), futtler and backend development in stacks related to java, kotlin and python ecosystems.</p>
+    work with KMP (Kotlin Multiplatform) and backend development in stacks related to java, kotlin and python ecosystems.</p>
 
 
 <h3 align="center">Connect with me:</h3>
