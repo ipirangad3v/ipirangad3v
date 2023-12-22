@@ -22,10 +22,10 @@
         src="https://komarev.com/ghpvc/?username=anthoniip&label=Profile%20views&color=0e75b6&style=flat"
         alt="anthoniip" /> </p>
 
-<p>Nice to meet you, I'm Anthoni Ipiranga, a programmer, developer, and software engineer.</p>
+<p align="center">Nice to meet you, I'm Anthoni Ipiranga,</p>
 
 
-<p>Hello. I have experience in mobile development, mainly focusing on native Android, Kotlin Multiplatform(KMP) and backend development using ktor</p>
+<p align="center">Hello. I have experience in mobile development, mainly focusing on native Android, Kotlin Multiplatform(KMP) and backend development using ktor</p>
 
 
 <h3 align="center">Connect with me:</h3>
