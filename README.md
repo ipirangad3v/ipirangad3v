@@ -25,8 +25,7 @@
 <p>Nice to meet you, I'm Anthoni Ipiranga, a programmer, developer, and software engineer.</p>
 
 
-<p>Hello. I have experience in mobile development, mainly focusing on native Android. Totally open to other technologies, I also
-    work with KMP (Kotlin Multiplatform) and backend development using ktor</p>
+<p>Hello. I have experience in mobile development, mainly focusing on native Android, Kotlin Multiplatform(KMP) and backend development using ktor</p>
 
 
 <h3 align="center">Connect with me:</h3>
