@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/anthoniip/anthoniip/main/assets/banner.svg" alt="Banner Anthoni Ipiranga" />
+  <img src="https://raw.githubusercontent.com/ipirangad3v/ipirangad3v/assets/banner.svg" alt="Banner Anthoni Ipiranga" />
 </p>
 
 <div align="center">
