@@ -19,7 +19,8 @@
 - 🚀 Focused on native **Android Development** following industry best practices.
 - ⌚️ Experience in developing applications for **Wear OS**.
 - 🧩 Enthusiast of **Kotlin Multiplatform (KMP)**, passionate about creating shared and efficient code.
-- 💡 I'm always looking for new challenges to improve my skills and deliver high-quality products.
+- 💡 Experience in designing and implementing **CI/CD pipelines** using **GitHub Actions** and **Fastlane** for automated testing, versioning, and deployment to Google Play.
+- 🌟 I'm always looking for new challenges to improve my skills and deliver high-quality products.
 
 ---
 
@@ -62,6 +63,32 @@
         <a href="https://developer.android.com/wear" target="_blank" rel="noreferrer">
           <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Wear_OS_icon.svg" height="40" alt="Wear OS" />
           <br>Wear OS
+        </a>
+      </td>
+    </tr>
+    <tr align="center" style="border: none;">
+      <td width="130" style="border: none;">
+        <a href="https://github.com/features/actions" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" height="40" alt="GitHub Actions" />
+          <br>GitHub Actions
+        </a>
+      </td>
+      <td width="130" style="border: none;">
+        <a href="https://fastlane.tools/" target="_blank" rel="noreferrer">
+          <img src="https://avatars.githubusercontent.com/u/11098337?s=200&v=4" height="40" alt="Fastlane" />
+          <br>Fastlane
+        </a>
+      </td>
+      <td width="130" style="border: none;">
+        <a href="https://gradle.org/" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gradle/gradle-original.svg" height="40" alt="Gradle" />
+          <br>Gradle
+        </a>
+      </td>
+      <td width="130" style="border: none;">
+        <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+          <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" height="40" alt="Firebase" />
+          <br>Firebase
         </a>
       </td>
     </tr>
