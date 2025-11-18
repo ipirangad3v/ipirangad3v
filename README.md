@@ -94,14 +94,3 @@
     </tr>
   </tbody>
 </table>
-
----
-
-### 📊 My GitHub Stats
-
-<p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ipirangad3v&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Anthoni's GitHub Stats" />
-    <br/>
-    <br/>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ipirangad3v&show_icons=true&locale=en&layout=compact&theme=dracula" alt="Top Languages" />
-</p>
