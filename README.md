@@ -6,7 +6,7 @@
     A passionate Software Developer focused on building robust mobile and wearable solutions.
   </h3>
   <p>
-    <a href="https://www.linkedin.com/in/ipirangadev/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+    <a href="https://www.linkedin.com/in/tonimadev/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
     <a href="https://play.google.com/store/apps/dev?id=6594602823307179845" target="_blank"><img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" alt="Google Play"/></a>
     <a href="https://buymeacoffee.com/anthoniipiranga" target="_blank"><img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee"/></a>
   </p>
@@ -21,6 +21,17 @@
 - 🧩 Enthusiast of **Kotlin Multiplatform (KMP)**, passionate about creating shared and efficient code.
 - 💡 Experience in designing and implementing **CI/CD pipelines** using **GitHub Actions** and **Fastlane** for automated testing, versioning, and deployment to Google Play.
 - 🌟 I'm always looking for new challenges to improve my skills and deliver high-quality products.
+
+---
+
+### Top app
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://playbadges.pavi2410.com/badge/full?id=digital.tonima.kairos&theme=dark">
+  <img alt="PlayBadges Card Folo" src="https://playbadges.pavi2410.com/badge/full?id=digital.tonima.kairos">
+</picture>
+
+<a href='https://play.google.com/store/apps/details?id=digital.tonima.kairos' target="_blank" rel="noopener noreferrer"><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' width='200'/></a>
 
 ---
 
@@ -49,13 +60,13 @@
       </td>
       <td width="130" style="border: none;">
         <a href="https://developer.android.com/jetpack/compose" target="_blank" rel="noreferrer">
-          <img src="https://github.com/ipirangad3v/ipirangad3v/blob/master/assets/jetpack_compose.png?raw=true" height="40" alt="Jetpack Compose" />
+          <img src="https://github.com/tonimadev/tonimadev/blob/master/assets/jetpack_compose.png?raw=true" height="40" alt="Jetpack Compose" />
           <br>Jetpack Compose
         </a>
       </td>
       <td width="130" style="border: none;">
         <a href="https://www.jetbrains.com/compose-multiplatform/" target="_blank" rel="noreferrer">
-          <img src="https://github.com/ipirangad3v/ipirangad3v/blob/master/assets/ComposeMultiplatform.png?raw=true" height="40" alt="Compose Multiplatform" />
+          <img src="https://github.com/tonimadev/tonimadev/blob/master/assets/ComposeMultiplatform.png?raw=true" height="40" alt="Compose Multiplatform" />
           <br>Compose Multiplatform
         </a>
       </td>
