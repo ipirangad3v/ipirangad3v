@@ -35,6 +35,12 @@
 
 ---
 
+### Top repo
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tonimadev&repo=kmule)](https://github.com/tonimadev/kmule)
+
+---
+
 ### 🛠️ Tech Stack & Tools
 
 <table align="center" style="border: none;">
