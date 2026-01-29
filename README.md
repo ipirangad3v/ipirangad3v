@@ -20,7 +20,6 @@
 - ⌚️ Experience in developing applications for **Wear OS**.
 - 🧩 Enthusiast of **Kotlin Multiplatform (KMP)**, passionate about creating shared and efficient code.
 - 💡 Experience in designing and implementing **CI/CD pipelines** using **GitHub Actions** and **Fastlane** for automated testing, versioning, and deployment to Google Play.
-- 🌟 I'm always looking for new challenges to improve my skills and deliver high-quality products.
 
 ---
 
