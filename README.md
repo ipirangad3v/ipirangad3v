@@ -2,9 +2,9 @@
   <h1>
     Hi there, I'm Anthoni Ipiranga 👋
   </h1>
-  <h3>
-    A passionate Software Developer focused on building robust mobile and wearable solutions.
-  </h3>
+<h3>
+  A passionate Software Developer focused on building robust end-to-end solutions, from mobile and wearable apps to scalable cloud backends using Spring, Ktor, and PostgreSQL.
+</h3>
   <p>
     <a href="https://www.linkedin.com/in/tonimadev/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
     <a href="https://play.google.com/store/apps/dev?id=6594602823307179845" target="_blank"><img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" alt="Google Play"/></a>
@@ -19,6 +19,7 @@
 - 🚀 Focused on native **Android Development** following industry best practices.
 - ⌚️ Experience in developing applications for **Wear OS**.
 - 🧩 Enthusiast of **Kotlin Multiplatform (KMP)**, passionate about creating shared and efficient code.
+- ☁️ Expanding my stack into **Backend & Cloud**, building robust APIs and services using **Spring**, **Ktor**, and **PostgreSQL**.
 - 💡 Experience in designing and implementing **CI/CD pipelines** using **GitHub Actions** and **Fastlane** for automated testing, versioning, and deployment to Google Play.
 
 ---
@@ -32,7 +33,7 @@
 
 <a href='https://play.google.com/store/apps/details?id=digital.tonima.kairos' target="_blank" rel="noopener noreferrer"><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' width='200'/></a>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tonimadev&repo=kairos-android-app&theme=buefy)](https://github.com/tonimadev/kairos-android-app)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=tonimadev&repo=kairos-android-app&theme=buefy)](https://github.com/tonimadev/kairos-android-app)
 
 ---
 
@@ -80,6 +81,38 @@
     </tr>
     <tr align="center" style="border: none;">
       <td width="130" style="border: none;">
+        <a href="https://spring.io/" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" height="40" alt="Spring" />
+          <br>Spring
+        </a>
+      </td>
+      <td width="130" style="border: none;">
+        <a href="https://ktor.io/" target="_blank" rel="noreferrer">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ktor/ktor-original.svg" height="40" alt="Ktor" />
+          <br>Ktor
+        </a>
+      </td>
+      <td width="130" style="border: none;">
+        <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" />
+          <br>PostgreSQL
+        </a>
+      </td>
+      <td width="130" style="border: none;">
+        <a href="https://cloud.google.com/" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" height="40" alt="Cloud" />
+          <br>Cloud
+        </a>
+      </td>
+      <td width="130" style="border: none;">
+        <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+          <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" height="40" alt="Firebase" />
+          <br>Firebase
+        </a>
+      </td>
+    </tr>
+    <tr align="center" style="border: none;">
+      <td width="130" style="border: none;">
         <a href="https://github.com/features/actions" target="_blank" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" height="40" alt="GitHub Actions" />
           <br>GitHub Actions
@@ -95,12 +128,6 @@
         <a href="https://gradle.org/" target="_blank" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gradle/gradle-original.svg" height="40" alt="Gradle" />
           <br>Gradle
-        </a>
-      </td>
-      <td width="130" style="border: none;">
-        <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-          <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" height="40" alt="Firebase" />
-          <br>Firebase
         </a>
       </td>
     </tr>
