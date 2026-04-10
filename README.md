@@ -16,6 +16,7 @@
 
 ### 👨‍💻 About Me
 
+- 🌐 **Check out my new system:** [fidd.com.br](https://fidd.com.br) - A full-stack SaaS platform focused on digitizing loyalty cards.
 - 🚀 Focused on native **Android Development** following industry best practices.
 - ⌚️ Experience in developing applications for **Wear OS**.
 - 🧩 Enthusiast of **Kotlin Multiplatform (KMP)**, passionate about creating shared and efficient code.
