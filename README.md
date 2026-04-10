@@ -25,11 +25,20 @@
 
 ---
 
-### Top app
+### Top apps
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://playbadges.pavi2410.com/badge/full?id=digital.tonima.fidd&theme=dark">
+  <img alt="PlayBadges Card Fidd" src="https://playbadges.pavi2410.com/badge/full?id=digital.tonima.fidd">
+</picture>
+
+<a href='https://play.google.com/store/apps/details?id=digital.tonima.fidd' target="_blank" rel="noopener noreferrer"><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' width='200'/></a>
+
+<br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://playbadges.pavi2410.com/badge/full?id=digital.tonima.kairos&theme=dark">
-  <img alt="PlayBadges Card Folo" src="https://playbadges.pavi2410.com/badge/full?id=digital.tonima.kairos">
+  <img alt="PlayBadges Card Kairos" src="https://playbadges.pavi2410.com/badge/full?id=digital.tonima.kairos">
 </picture>
 
 <a href='https://play.google.com/store/apps/details?id=digital.tonima.kairos' target="_blank" rel="noopener noreferrer"><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' width='200'/></a>
