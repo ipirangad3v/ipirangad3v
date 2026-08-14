@@ -16,25 +16,14 @@
 
 ### 👨‍💻 About Me
 
-- 🌐 **Check out my new system:** [fidd.com.br](https://fidd.com.br) - A full-stack SaaS platform focused on digitizing loyalty cards.
 - 🚀 Focused on native **Android Development** following industry best practices.
 - ⌚️ Experience in developing applications for **Wear OS**.
 - 🧩 Enthusiast of **Kotlin Multiplatform (KMP)**, passionate about creating shared and efficient code.
-- ☁️ Expanding my stack into **Backend & Cloud**, building robust APIs and services using **Spring**, **Ktor**, and **PostgreSQL**.
 - 💡 Experience in designing and implementing **CI/CD pipelines** using **GitHub Actions** and **Fastlane** for automated testing, versioning, and deployment to Google Play.
 
 ---
 
 ### Top apps
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://playbadges.pavi2410.com/badge/full?id=digital.tonima.fidd&theme=dark">
-  <img alt="PlayBadges Card Fidd" src="https://playbadges.pavi2410.com/badge/full?id=digital.tonima.fidd">
-</picture>
-
-<a href='https://play.google.com/store/apps/details?id=digital.tonima.fidd' target="_blank" rel="noopener noreferrer"><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' width='200'/></a>
-
-<br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://playbadges.pavi2410.com/badge/full?id=digital.tonima.kairos&theme=dark">
