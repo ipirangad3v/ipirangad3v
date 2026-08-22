@@ -3,7 +3,7 @@
     Hi there, I'm Anthoni Ipiranga 👋
   </h1>
 <h3>
-  A passionate Software Developer focused on building robust end-to-end solutions, from mobile and wearable apps to scalable cloud backends using Spring, Ktor, and PostgreSQL.
+  A passionate Software Developer focused on building robust mobile and wearable apps.
 </h3>
   <p>
     <a href="https://www.linkedin.com/in/tonimadev/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -32,7 +32,14 @@
 
 <a href='https://play.google.com/store/apps/details?id=digital.tonima.kairos' target="_blank" rel="noopener noreferrer"><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' width='200'/></a>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=tonimadev&repo=kairos-android-app&theme=buefy)](https://github.com/tonimadev/kairos-android-app)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://playbadges.pavi2410.com/badge/full?id=digital.tonima.myworkout&theme=dark">
+  <img alt="PlayBadges Card Kairos" src="https://playbadges.pavi2410.com/badge/full?id=digital.tonima.myworkout">
+</picture>
+
+<a href='https://play.google.com/store/apps/details?id=digital.tonima.myworkout' target="_blank" rel="noopener noreferrer"><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' width='200'/></a>
+
+
 
 ---
 
